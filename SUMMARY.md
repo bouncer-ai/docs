@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to berghain](README.md)
 
 ## Getting Started
 
